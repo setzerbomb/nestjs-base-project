@@ -38,4 +38,4 @@ $ npm run test:cov
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE.md)
