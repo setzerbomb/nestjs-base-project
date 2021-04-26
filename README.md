@@ -1,4 +1,4 @@
-# Nestjs Base Project
+# Nest.js Base Project
 
 ## Description
 
@@ -38,4 +38,4 @@ $ npm run test:cov
 
 ## License
 
-Nest is [MIT licensed](LICENSE).
+[MIT](LICENSE)
